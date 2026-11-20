@@ -1,0 +1,14 @@
+# Secret keys
+.env
+.env.*
+
+# Generated research history
+briefs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
