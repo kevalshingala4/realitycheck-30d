@@ -5,6 +5,8 @@ An open-source research engine that skips marketing hype and uncovers what devel
 Powered by free community data sources and Google's free Gemini Flash model.
 
 ---
+<img width="1336" height="585" alt="image" src="https://github.com/user-attachments/assets/db6300ac-4e6b-43df-93ae-e41ba82d36c1" />
+
 
 ## Why RealityCheck?
 
